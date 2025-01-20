@@ -44,7 +44,7 @@
 Написать программу HelloWorld на python с запуском в Jupiter Notebook.
 print("Hello World")
 4. Нажать Run для выполнения ячейки.
-![image](file:///C:/Users/Admin/Downloads/2025-01-20_20-50-31.png)
+![image](https://github.com/Thomas10622/Redme/blob/main/2025-01-20_20-50-31.png)
 5. вывод: все работает.
    
 ## Задание 2
@@ -52,7 +52,7 @@ print("Hello World")
    
 2. Настроить синхронизацию Unity и Visual Studio 
 
-![image](https://drive.google.com/file/d/18rKrDu4nW_cla11jwYp15HSAY56rFAfU/view?usp=sharing)
+![image](https://github.com/Thomas10622/Redme/blob/main/2025-01-20_21-42-47.png)
 
 ## Задание 3
 ### Сделать отчет о выполненной работе
