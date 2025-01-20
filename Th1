@@ -44,7 +44,7 @@
 Написать программу HelloWorld на python с запуском в Jupiter Notebook.
 print("Hello World")
 4. Нажать Run для выполнения ячейки.
-![image](https://drive.google.com/file/d/1Xxbzig8UVzQBM9P7hVAV3Cf-aGX4ANp5/view?usp=sharing)
+![image](file:///C:/Users/Admin/Downloads/2025-01-20_20-50-31.png)
 5. вывод: все работает.
    
 ## Задание 2
