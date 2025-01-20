@@ -45,7 +45,7 @@
 print("Hello World")
 4. Нажать Run для выполнения ячейки.
 ![image](https://github.com/Thomas10622/Redme/blob/main/2025-01-20_20-50-31.png)
-5. вывод: все работает.
+5. Вывод: все работает.
    
 ## Задание 2
 ### 1. Открыть Unity и создать новый проект
@@ -53,6 +53,12 @@ print("Hello World")
 2. Настроить синхронизацию Unity и Visual Studio 
 
 ![image](https://github.com/Thomas10622/Redme/blob/main/2025-01-20_21-42-47.png)
+
+3. Написать программу Hello World на C# с запуском на Unity. 
+
+![image](https://github.com/Thomas10622/Redme/blob/main/2025-01-20_20-52-43.png)
+
+4. Вывод: все работает.
 
 ## Задание 3
 ### Сделать отчет о выполненной работе
